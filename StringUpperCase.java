@@ -3,8 +3,8 @@ package arunaapplication;
 public class StringUpperCase {
 
 	public static void main(String[] args) {
-		String str = "Welcome to hyd";
-		// WELCOME TO HYD
+		String str = "good morning every one";
+		// GOOD MORNING EVERY ONE
 		// A--Z--65--90
 		// a--97---122
 		
